@@ -91,10 +91,7 @@ header{
     color: #ffff;
     
 }
-header .search-icon{
-    color:#fff;
-    font-size: .2rem ;
-}
+
 .btn{
     display: inline-block;
     padding: .8rem 3rem;
