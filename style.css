@@ -58,12 +58,12 @@ header{
 }
 .btnew{
     display: inline-block;
-    padding: .8rem 2rem;
+    padding: .5rem 1rem;
     border: .2rem solid var(--red);
     color: var(--red);
     cursor: pointer;
-    font-size: 1.7rem;
-    border-radius: .5rem;
+    font-size: 1.5rem;
+    border-radius: .4rem;
     position: relative;
     overflow: hidden;
     z-index: 0;
@@ -134,8 +134,8 @@ header .logo i{
     color: var(--red);
 }
 header .navbar a{
-    font-size: 2rem;
-    margin-left: 2rem;
+    font-size: 1.5rem;
+    margin-left: 1rem;
     color: #666;
 }
 header .navbar a:hover{
